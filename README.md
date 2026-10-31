@@ -12,6 +12,8 @@ statistical outliers, how many are data errors and how many are legitimate
 high-value transactions? The answer determined whether the dataset could be
 analysed at all.
 
+![Global Superstore Dashboard](superstore_dasboard.png)
+
 ---
 
 ## Dataset Overview
